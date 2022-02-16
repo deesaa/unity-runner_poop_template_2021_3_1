@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0913fd90f7a4477d8a769488729eda89, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: 
+  _playerConfig:
+    MoveSpeed:
+      StartValue: 4
+      AddValuePerUpgrade: 0
+    LookRotationSpeed:
+      StartValue: 6
+      AddValuePerUpgrade: 0
+    MinAngleAbleMove:
+      StartValue: 55
+      AddValuePerUpgrade: 0
+    IncomeCoins:
+      StartValue: 1
+      AddValuePerUpgrade: 0.15
+    StartPlayerUnits:
+      StartValue: 1
+      AddValuePerUpgrade: 1
+    PlayerTargetMaxDistance: 100
+    AttackCooldown: 1
+    DefalutWeapon: {fileID: 11400000, guid: 69bb31db3b3810b40890b42434f8877f, type: 2}
+    EnemyRaycastMask:
+      serializedVersion: 2
+      m_Bits: 2816
+  _globalConfig:
+    TurnSpeed: 0
+    Sensitivity: 1
+    SideMoveBounds: {x: -0.5, y: 0.5, z: 0}
+    AddMultiplierPerBossAttack: 0.4
+    AddCoinsPerEnemy: 10
+    FreezeTimeSpeed: 3
+    UnfreezeTimeSpeed: 0
+    CameraFocusSpeed: 3
+    PlayerInfoFollowSpeed: 5.5
+    PlayerInfoOffset: {x: 0, y: -1, z: -1}
+  _shopConfig:
+    ItemCost:
+      StartValue: 200
+      AddValuePerUpgrade: 600
+  _enemyConfig:
+    Health: 0
+    AttackCooldown: 0.2
+    UnitsDamageDelay: 0.15
+    KillUnitsPerBossHit: 10
+    KillUnitsPerEnemy: 3
+    PredictionPower: 1.3
+  _effectsConfig:
+    PlayerUnitsForce: 20
+    PlayerUnitsForceInFight: 20
+    UnitsRotationSpeed: 4
+  _levelConfigs:
+  - LevelIndex: 0
+    PathStartDistance: 10
+  - LevelIndex: 1
+    PathStartDistance: 10
+  - LevelIndex: 2
+    PathStartDistance: 10
+  - LevelIndex: 3
+    PathStartDistance: 10
+  - LevelIndex: 4
+    PathStartDistance: 10
+  - LevelIndex: 5
+    PathStartDistance: 10
+  _playerSettings:
+    LanguageIndex: 0
+    FontSizeIndex: 0
+    ResolutionIndex: 0
+    WindowedMode: 0
+    VolumeValue: 0

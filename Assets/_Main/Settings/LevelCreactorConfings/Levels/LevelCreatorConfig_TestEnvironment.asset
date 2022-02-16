@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fee8cda2d9444d20a8c1df7b71b4458c, type: 3}
+  m_Name: LevelCreatorConfig_TestEnvironment
+  m_EditorClassIdentifier: 
+  Elements:
+  - RoadElement: {fileID: 11400000, guid: 4ed7bf392d67fc64c8eb95024baf7c1d, type: 2}
+    OffsetZ: 3
+    OffsetX: 0
+  - RoadElement: {fileID: 11400000, guid: 20e8ad1b1b0e8964db644c774ccd4870, type: 2}
+    OffsetZ: 3
+    OffsetX: 0
+  - RoadElement: {fileID: 11400000, guid: da62c7549299fbc499f62c60e3a5cffc, type: 2}
+    OffsetZ: 3
+    OffsetX: 0
+  - RoadElement: {fileID: 11400000, guid: 68f139a510d1ddb4598bb5a388ad9dd1, type: 2}
+    OffsetZ: 3
+    OffsetX: 0
+  - RoadElement: {fileID: 11400000, guid: 77540d15f513d654dbf2a31d85e074b6, type: 2}
+    OffsetZ: 3
+    OffsetX: 0
+  - RoadElement: {fileID: 11400000, guid: 7f8f030150875194fb90950320c2b9eb, type: 2}
+    OffsetZ: 3
+    OffsetX: 0

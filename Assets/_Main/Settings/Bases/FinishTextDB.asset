@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3e8b9bfb4484ac1894561ddd33bec58, type: 3}
+  m_Name: FinishTextDB
+  m_EditorClassIdentifier: 
+  Texts:
+  - Text: You are open to the world and explore it with pleasure. You like communicating
+      with people and being in the high light. You get used to the new team quickly
+      and can keep any conversation.
+    StatType: 0
+  - Text: "You are focused on your inner world, not very sociable but a good companion
+      if you like the topic under discussion. You rely on your own knowledge and
+      experience not on the other people\u2019s views. You are keen on reading and
+      working in relaxed atmosphere."
+    StatType: 1
+  - Text: "You are a self-sufficient person who doesn\u2019t depend on the other
+      people\u2019s opinions and actions. You often rely only on yourself. You can
+      independently solve all problems related to ensuring your life. And most importantly,
+      you enjoy it."
+    StatType: 2
+  - Text: You always have everything under control and you are guided by the will.
+      You probably have a plan (and not only one) and a schedule for the current
+      day. You are self-collected and know how to concentrate on a specific task
+      without being distracted. Another of your distinguishing features is perseverance.
+      It helps you to overcome obstacles, to find creative solutions and to move
+      forward without any stops.
+    StatType: 3

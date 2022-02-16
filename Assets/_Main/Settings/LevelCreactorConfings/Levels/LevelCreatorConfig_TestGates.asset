@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fee8cda2d9444d20a8c1df7b71b4458c, type: 3}
+  m_Name: LevelCreatorConfig_TestGates
+  m_EditorClassIdentifier: 
+  Elements:
+  - RoadElement: {fileID: 11400000, guid: 1b9a1e59ccb621d4f9a99be80c699467, type: 2}
+    OffsetZ: 2
+    OffsetX: 0
+  - RoadElement: {fileID: 11400000, guid: 2b88a77f9af2cbc47bcd7e519f24aa7b, type: 2}
+    OffsetZ: 2
+    OffsetX: 0
+  - RoadElement: {fileID: 11400000, guid: 5595f59626ccc4848817be391b3b0858, type: 2}
+    OffsetZ: 2
+    OffsetX: 0
+  - RoadElement: {fileID: 11400000, guid: f2938737de80d844390d74c5e84df16a, type: 2}
+    OffsetZ: 2
+    OffsetX: 0
+  - RoadElement: {fileID: 11400000, guid: 7a08c5d7ac33a8a4b82f700cf0307aa9, type: 2}
+    OffsetZ: 2
+    OffsetX: 0
+  - RoadElement: {fileID: 11400000, guid: 8efc618c656b8e54098a70066ce29d32, type: 2}
+    OffsetZ: 2
+    OffsetX: 0
+  - RoadElement: {fileID: 11400000, guid: 46983c47a3ae7474a803cec6775acf1d, type: 2}
+    OffsetZ: 1
+    OffsetX: 0
+  - RoadElement: {fileID: 11400000, guid: 11fe8b5bded9aa04aaf6df943ea82259, type: 2}
+    OffsetZ: 6.8
+    OffsetX: 0
+  - RoadElement: {fileID: 11400000, guid: b21db517c1cef3f48a99494701415d9a, type: 2}
+    OffsetZ: 7.1
+    OffsetX: 0
+  - RoadElement: {fileID: 11400000, guid: 6334d8d9d220f9b4bbff6b4b8646f45d, type: 2}
+    OffsetZ: 7.1
+    OffsetX: 0
+  - RoadElement: {fileID: 11400000, guid: 4bae4b2c769b1e745b4f0a2560608b2c, type: 2}
+    OffsetZ: 6.7
+    OffsetX: 0
+  - RoadElement: {fileID: 11400000, guid: d109dbd9c93b14041b2853f7855f6623, type: 2}
+    OffsetZ: -4.7
+    OffsetX: 0
+  - RoadElement: {fileID: 11400000, guid: 1ca10cb96bff277459b6e16eaf2ea78d, type: 2}
+    OffsetZ: 25.7
+    OffsetX: 0
+  - RoadElement: {fileID: 11400000, guid: ffab362aac2f7004e9db35ddd10d0601, type: 2}
+    OffsetZ: 14.145
+    OffsetX: 0
+  - RoadElement: {fileID: 11400000, guid: 25fb487354feaeb4692db547053f943d, type: 2}
+    OffsetZ: 1.6
+    OffsetX: 0
+  - RoadElement: {fileID: 11400000, guid: 0fffbca0df308034fbd3da4afa238383, type: 2}
+    OffsetZ: 1
+    OffsetX: 0
+  - RoadElement: {fileID: 11400000, guid: 7e1b915cfa968aa4aae7dee43d977b3b, type: 2}
+    OffsetZ: 3.4
+    OffsetX: 0

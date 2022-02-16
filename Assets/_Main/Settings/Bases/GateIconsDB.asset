@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b7338f85d20470e9394ce012b9fcd83, type: 3}
+  m_Name: GateIconsDB
+  m_EditorClassIdentifier: 
+  IconElements:
+  - Icons:
+    - {fileID: 21300000, guid: a07f1de97da8b48b6bd4d976ad1b1fad, type: 3}
+    - {fileID: 21300000, guid: a07f1de97da8b48b6bd4d976ad1b1fad, type: 3}
+    Choice: 0
+  - Icons:
+    - {fileID: 21300000, guid: c40f78e392af86e42a8e59b78207f9b0, type: 3}
+    - {fileID: 21300000, guid: 86b7deea519b668489122ebd7b100a81, type: 3}
+    Choice: 1
+  - Icons:
+    - {fileID: 21300000, guid: 2e118a306517e994aaef8fdb98f3267f, type: 3}
+    - {fileID: 21300000, guid: ebd99d46f780a2d468758d22552d3de4, type: 3}
+    Choice: 2
+  - Icons:
+    - {fileID: 21300000, guid: db94c396ea1c85b4aac44b56f1587e52, type: 3}
+    - {fileID: 21300000, guid: 89932e1642b84394a9c3cd36d82b84f0, type: 3}
+    Choice: 3
+  - Icons:
+    - {fileID: 21300000, guid: 3c4668ac5c3df574e802c521e4df11e4, type: 3}
+    - {fileID: 21300000, guid: 58bb6bdbb11f92846a2f4aae6c538a32, type: 3}
+    Choice: 4
+  - Icons:
+    - {fileID: 21300000, guid: bd6220f5da6b9e449990fc78262cc522, type: 3}
+    - {fileID: 21300000, guid: 1ad9b23b0f228f442971d113a51c81a0, type: 3}
+    Choice: 4
+  - Icons:
+    - {fileID: 21300000, guid: e192dac10270fe54895924c5713a7dd8, type: 3}
+    - {fileID: 21300000, guid: 4d16580175c29cb40927f65fcbb3fb26, type: 3}
+    Choice: 6
+  - Icons:
+    - {fileID: 21300000, guid: a01367a7e82bb1446873b510bd26f117, type: 3}
+    - {fileID: 21300000, guid: 2a309d50f61774e449975910c9632365, type: 3}
+    Choice: 7
+  - Icons:
+    - {fileID: 21300000, guid: 67dbb6d386b2cbe44a7e1fa05d066174, type: 3}
+    - {fileID: 21300000, guid: 6edd60e75d5f1ec49a6a414bf432365a, type: 3}
+    Choice: 8
+  - Icons:
+    - {fileID: 21300000, guid: 4c1135dcb042c8148a71686dcb71a652, type: 3}
+    - {fileID: 21300000, guid: 09e299264cee6784080579ff0993a594, type: 3}
+    Choice: 9
+  - Icons:
+    - {fileID: 21300000, guid: 32f524823c04e184cada50e99cec88d1, type: 3}
+    - {fileID: 21300000, guid: f5278876deec2844da34d08d7144d12c, type: 3}
+    Choice: 10
+  - Icons:
+    - {fileID: 21300000, guid: a9812b97048111e4da9ebd65ddf8e98c, type: 3}
+    - {fileID: 21300000, guid: dcef6afd13ad4fb4491e7346e5a75a34, type: 3}
+    Choice: 11
+  - Icons:
+    - {fileID: 21300000, guid: c599148d8a6e8bd44a1c526a9763af10, type: 3}
+    - {fileID: 21300000, guid: 6c13065d998a08e4ea91044934be0aef, type: 3}
+    Choice: 12
+  - Icons:
+    - {fileID: 21300000, guid: bd6220f5da6b9e449990fc78262cc522, type: 3}
+    - {fileID: 21300000, guid: 1ad9b23b0f228f442971d113a51c81a0, type: 3}
+    Choice: 5

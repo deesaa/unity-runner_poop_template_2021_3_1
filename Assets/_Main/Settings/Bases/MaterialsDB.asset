@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6289db56528425ba83e956c17e82d06, type: 3}
+  m_Name: MaterialsDB
+  m_EditorClassIdentifier: 
+  GateMaterialElements:
+  - Choice: 0
+    BaseMaterial: {fileID: 0}
+    DoorMaterial: {fileID: 0}
+  - Choice: 1
+    BaseMaterial: {fileID: 2100000, guid: 692b23f92b66d27429ce3053785340b1, type: 2}
+    DoorMaterial: {fileID: 2100000, guid: 3ab8cb135672f514f992b06a649a6af2, type: 2}
+  - Choice: 2
+    BaseMaterial: {fileID: 2100000, guid: 7bf716668d07460458817a8b8111e284, type: 2}
+    DoorMaterial: {fileID: 2100000, guid: ffa58cc8d871fca4e9deb475e1eb65e3, type: 2}
+  - Choice: 3
+    BaseMaterial: {fileID: 2100000, guid: b54155470b074484b83e00722ae6e71a, type: 2}
+    DoorMaterial: {fileID: 2100000, guid: cdb5822d76d696c4bb0d6a7319b7900b, type: 2}
+  - Choice: 4
+    BaseMaterial: {fileID: 2100000, guid: 877d94e1105239448a99d327b0e7319a, type: 2}
+    DoorMaterial: {fileID: 2100000, guid: 31b58821928f8d44c91aa170732e022e, type: 2}
+  - Choice: 5
+    BaseMaterial: {fileID: 2100000, guid: 182a8957825253c40acda8b9d6360a35, type: 2}
+    DoorMaterial: {fileID: 2100000, guid: 295f133d5f530e14e8bfb28d997f4f2d, type: 2}
+  - Choice: 6
+    BaseMaterial: {fileID: 2100000, guid: 1d6384489d6d2be43b53725f47e21a23, type: 2}
+    DoorMaterial: {fileID: 2100000, guid: f2afd98e621e8254bbfbfd647df7e1d9, type: 2}
+  - Choice: 7
+    BaseMaterial: {fileID: 2100000, guid: bb565f0774871514290ace8a881ddf16, type: 2}
+    DoorMaterial: {fileID: 2100000, guid: 9de097e4f4aa4804bb96d039b27e005c, type: 2}
+  - Choice: 8
+    BaseMaterial: {fileID: 2100000, guid: d9fbfc54f08b7304fb828a3d9b8a7b01, type: 2}
+    DoorMaterial: {fileID: 2100000, guid: dd5fd6ce2839b6a4da97826ae4047716, type: 2}
+  - Choice: 9
+    BaseMaterial: {fileID: 2100000, guid: 21ae14904c56f15478d2fd7903768c07, type: 2}
+    DoorMaterial: {fileID: 2100000, guid: 70944dbdd60aec041917159b5024e4cf, type: 2}
+  - Choice: 10
+    BaseMaterial: {fileID: 2100000, guid: db21e4091b67074428c7f72b4494caa9, type: 2}
+    DoorMaterial: {fileID: 2100000, guid: 9fa5649854448f947a8596a1ac7eb21e, type: 2}
+  - Choice: 11
+    BaseMaterial: {fileID: 2100000, guid: 1401605ead27361489f5feb190601a16, type: 2}
+    DoorMaterial: {fileID: 2100000, guid: ffb33b6129b68c14db2d6637d972f0f9, type: 2}
+  - Choice: 12
+    BaseMaterial: {fileID: 2100000, guid: 597bcfeb16c706c4ea6847880e8be6d6, type: 2}
+    DoorMaterial: {fileID: 2100000, guid: 5fe5481e65f1a3548a4ae5d76af91b12, type: 2}

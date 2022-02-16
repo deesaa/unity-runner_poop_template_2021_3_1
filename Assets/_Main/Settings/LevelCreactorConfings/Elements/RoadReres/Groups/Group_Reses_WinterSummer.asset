@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6adb03d96f884959a4ef871d578cdb5a, type: 3}
+  m_Name: Group_Reses_WinterSummer
+  m_EditorClassIdentifier: 
+  Group:
+  - RoadElement: {fileID: 11400000, guid: 77df6a9389e0cc04ca68c8d04c46cba5, type: 2}
+    OffsetZ: 0
+    OffsetX: -0.5
+  - RoadElement: {fileID: 11400000, guid: 289144dc6a404b8418518493e567da55, type: 2}
+    OffsetZ: 0
+    OffsetX: 0.5
